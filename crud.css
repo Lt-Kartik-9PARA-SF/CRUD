@@ -1,0 +1,14 @@
+
+button:hover{
+    cursor: pointer;
+    
+}
+
+#removeBtn{
+    background-color: red;
+    border:none;
+}
+#removeBtn:hover{
+    background-color:blueviolet;
+    border:none;
+}
